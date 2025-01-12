@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7350558844ea40046b761c2f5d89f3d5, type: 3}
+  m_Name: "Qu\xEAteMicro"
+  m_EditorClassIdentifier: 
+  questName: Microphone
+  questDescription: "O\xF9 est le micro ?!?! J'en ai besoin pour faire mon cours
+    !!!!!! TROUVE LE MOI\n"
+  requiredItems:
+  - {fileID: 11400000, guid: 3815d96235d14634f8568dd24daf2bdd, type: 2}
+  requiredQuantities: 01000000
+  rewardItems:
+  - {fileID: 11400000, guid: 07a546324053e034b9f803acf203c3d9, type: 2}
+  rewardQuantities: 01000000

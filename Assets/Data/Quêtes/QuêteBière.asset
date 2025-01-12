@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7350558844ea40046b761c2f5d89f3d5, type: 3}
+  m_Name: "Qu\xEAteBi\xE8re"
+  m_EditorClassIdentifier: 
+  questName: "Une bonne bi\xE8re"
+  questDescription: "J'ai besoin de 3 bonnes bi\xE8res pour ce soir, la soir\xE9e
+    risque d'\xEAtre compliqu\xE9e sans elles\n"
+  requiredItems:
+  - {fileID: 11400000, guid: 9f2a26c729fee3a4790332dcfb667049, type: 2}
+  requiredQuantities: 03000000
+  rewardItems:
+  - {fileID: 11400000, guid: 5c337c91f0bda3f4cb7b91d45c401fe0, type: 2}
+  rewardQuantities: 1e000000

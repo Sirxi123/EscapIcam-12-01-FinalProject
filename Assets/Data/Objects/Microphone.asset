@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2e0cf8c30730b904ebd4132bc8337074, type: 3}
+  m_Name: Microphone
+  m_EditorClassIdentifier: 
+  <IsStackable>k__BackingField: 0
+  <MaxStackSize>k__BackingField: 1
+  <Name>k__BackingField: Micro de L'amphi
+  <Description>k__BackingField: "Il permet de donner de super cours en amphith\xE9atre"
+  <ItemImage>k__BackingField: {fileID: -5242049666172039111, guid: 1dad77fa7ef59db4182f3e8ec7190239, type: 3}
+  <DefaultParametersList>k__BackingField: []
+  modifiersData: []
+  <actionSFX>k__BackingField: {fileID: 0}
